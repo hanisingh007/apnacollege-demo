@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is a git repo is practice purpose
 <br>
-Author - Hani singh
+Author - Hani singh(LTTS)
+
